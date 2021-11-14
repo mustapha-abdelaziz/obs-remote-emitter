@@ -1,5 +1,6 @@
 {
   "name": "obs-time-emitter",
+  "description": "Time Emitter of current playing video on OBS to the server",
   "version": "1.0.0",
   "private": true,
   "scripts": {
